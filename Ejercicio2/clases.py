@@ -5,7 +5,7 @@ class Contacto:
 
     def __str__(self):
         return f"""Contacto: {self.nombre}, 
-        Numero: {self.numerotelf}"""
+        numero: {self.numerotelf}"""
 
 class Agendas:
     def __init__(self):
